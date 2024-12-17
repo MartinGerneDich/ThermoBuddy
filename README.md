@@ -12,11 +12,6 @@ This guide provides step-by-step instructions for setting up the environment and
         Download and install the Arduino IDE from Arduino's official website.
         Upload the corresponding Arduino project (included in this repository) to your Arduino board.
 
-    Install colcon
-    Ensure you have colcon installed for building the ROS 2 workspace:
-
-    pip install -U colcon-common-extensions
-
 2. Setting up the Workspace
 
     Clone this repository or download the project into a workspace folder.
